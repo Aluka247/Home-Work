@@ -1,0 +1,294 @@
+.container{
+    float: left;
+    width:70%;
+    height: 1000px;
+    margin-left: 3%;
+    background-color: rgb(255, 255, 255);
+    position: sticky;
+    
+}
+
+.nav{
+    float: left;
+    width: 1266px;
+    height: 100px;
+    background-color: rgb(102, 101, 101);
+    position: fixed;
+
+}
+
+
+.name{
+    float: left;
+    width: 112px;
+    font-size: 30px;
+    margin-left: 50px;
+   
+}
+
+
+#subname{
+    float: left;
+    color: rgb(14, 0, 77);
+    font-size: 30px;
+    margin-left: 45px;
+    font-style: normal;
+    
+    
+}
+
+#linkg{
+    float: left;
+    text-decoration: none;
+    color: rgb(196, 183, 0);
+}
+
+.button{
+    float: left;
+    width: 110px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+#buttonp{
+    float: left;
+    width: 600px;
+    height: 50px;
+    margin-left: 100px;
+    border: 1px solid red;
+   
+}
+
+
+.link{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.link:hover{
+    color: rgb(197, 184, 5);
+    transition-duration: 400ms;
+}
+
+
+footer{
+
+    float: left;
+    width: 100%;
+    height: 200px;
+   
+    background-color: black;
+}
+
+.inner-footer{
+    float: left;
+    margin-left: 40%;
+    margin-top: 10px;
+    width: 20%;
+    height: 25px;
+    background-color: black;
+    
+}
+
+.icon{
+    margin-left: 43px;
+    margin-top: 6px;
+    width: 30px;
+    height: 30px;
+}
+
+.foot-button{
+    float: left;
+    margin-top: 4px;
+    margin-left: 40px;
+    font-size: 18px;
+   
+}
+
+.link-foot{
+    text-decoration: none;
+    color: rgb(163, 163, 163);
+    
+}
+
+
+
+.inner-foot-button{
+    float: left;
+    width: 43%;
+    height: 25px;
+    margin-top: 45px;
+    margin-left: 30%;
+    border: 1px solid rgb(197, 184, 5);
+
+}
+
+.copyright{
+    float: left;
+    width: 70%;
+    height: 25px;
+    margin-left: 16%;
+    margin-top: 45px;
+    border: 1px solid rgb(197, 184, 5);
+}
+
+#c-text{
+    float: left;
+    color: rgb(180, 176, 176);
+    font-size: 18px;
+    margin-top: 4px;
+    margin-left: 11px;
+}
+
+.content{
+    float: left;
+    width: 24%;
+    height: 55%;
+    margin-top: 10%;
+    border: 1px solid rgb(228, 225, 225);
+   
+}
+
+.inner-content{
+    float: left;
+    width: 86%;
+    height: 92%;
+    color: black;
+    margin-left: 20px;
+    margin-top: 10%;
+    
+}
+
+#contactus{
+    float: left;
+    margin-left: 10%;
+    margin-top: 200px;
+    color: rgb(58, 54, 54);
+}
+
+.contact-text{
+    float: left;
+    width: 90%;
+    height: 25%;
+    
+}
+
+.contactus-div{
+    float: left;
+    width: 47%;
+    height: 400px;
+    margin-top: 100px;
+    border: 2px solid rgb(228, 225, 225);
+   
+}
+
+.input-form{
+    float: left;
+    width: 50%;
+    height: 150px;
+    border: 2px solid rgb(238, 236, 236);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.input-text{
+    float: left;
+   
+    width: 200px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 4%;
+}
+
+.div-textarea{
+    float: left;
+    width: 450px;
+    height: 125px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid rgb(226, 225, 225);
+}
+
+textarea{
+    float: left;
+    width: 400px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 4%;
+    resize: none;
+    border-inline-start-color: rgb(197, 184, 5);
+}
+
+.comment-button{
+    float: left;
+    margin-left: 90%;
+    margin-top: 30px;
+}
+
+.comment-button:hover{
+    color: rgb(197, 184, 5);
+    transition: 400ms;
+}
+
+.homepage{
+    float: left;
+    color: black;
+    margin-top: 20%;
+}
+
+.search-box{
+    float: left;
+    width: 270px;
+    height: 30px;
+    margin-top: 0%;
+    margin-left: 10%;
+    border: 1px solid red;
+}
+
+.search-img{
+    float:left ;
+    width: 30px;
+    height: 30px;
+    position:sticky;
+   
+   
+}
+
+
+.search-txt{
+    float: left;
+    color: rgb(2, 2, 2);
+
+}
+
+.disclaimer{
+    font-size: 30px;
+    margin-top: 20%;
+    margin-left: 40px;
+}
+
+.disclm-txt{
+    float: left;
+    font-size: 20px;
+    color: rgb(78, 53, 53);
+    margin-left: 5%;
+    margin-top: 7%;
+    
+}
+
+.disclm-container{
+    float: left;
+    width: 700px;
+    height: 630px;
+    margin-top: 15%;
+    border: 2px solid black;
+}
+
+#agreement{
+    font-size: 20px;
+    color: red;
+}
